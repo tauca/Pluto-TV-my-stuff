@@ -10221,15 +10221,15 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260520203000 +0000" stop="20260521002200 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260520203000 +0000" stop="20260521040000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260521002200 +0000" stop="20260521022200 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260521040000 +0000" stop="20260521053000 +0000">
+        <title>DAZN Ringside</title>
+        <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c2a2d2433010008df7e92" start="20260520171100 +0000" stop="20260520184700 +0000">
         <title>La Coupe De La Gloire: The Official Film of the 1998 FIFA World Cup</title>
@@ -14897,10 +14897,15 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Delivering the news you need to know.</desc>
         <icon src="https://images.pluto.tv/series/68ed5a7ba44f8dcccd701d09/tile_1760479390150.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260520223000 +0000" stop="20260521002200 +0000">
-        <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260520214800 +0000" stop="20260520230800 +0000">
+        <title>Boxing</title>
+        <desc>The sensational Manny 'Pacman' Pacquiao went to war with the legendary Marco Antonio Barrera.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0663e6938001ad79dc7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260520230800 +0000" stop="20260521002200 +0000">
+        <title>Boxing</title>
+        <desc>From October 6, 2007.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0663e6938001ad79dc7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260521002200 +0000" stop="20260521022200 +0000">
         <title>DAZN Combat</title>
@@ -14911,11 +14916,6 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>DAZN Combat</title>
         <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260521040000 +0000" stop="20260521053000 +0000">
-        <title>DAZN Ringside</title>
-        <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c2a2d2433010008df7e92" start="20260520215500 +0000" stop="20260521000700 +0000">
         <title>Women's International Soccer Friendlies</title>
@@ -19791,10 +19791,10 @@ DEPART DE PUNK HAZARD !</title>
         <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
         <icon src="https://images.pluto.tv/series/6659c9ecf8681400135d2797/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260521022200 +0000" stop="20260521040000 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260521023000 +0000" stop="20260521040000 +0000">
+        <title>DAZN Ringside</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260521040000 +0000" stop="20260521053000 +0000">
         <title>DAZN Ringside</title>
@@ -19802,6 +19802,11 @@ DEPART DE PUNK HAZARD !</title>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260521053000 +0000" stop="20260521070000 +0000">
+        <title>DAZN Ringside</title>
+        <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260521070000 +0000" stop="20260521083000 +0000">
         <title>DAZN Ringside</title>
         <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -29664,7 +29669,17 @@ GREEN BIT, L'ILE AUX FÉES !</title>
         <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
         <icon src="https://images.pluto.tv/series/67a4d33515d6eb0008307dea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260521140759 +0000" stop="20260521145759 +0000">
+        <title>Les Lascars</title>
+        <desc>Suivez les aventures de jeunes de cité qui vous sembleront familières. Tout le monde est la cible de l'humour des Lascars, que l'on soit jeune ou vieux, salarié ou chômeur, flic ou pote. Les auteurs livrent un regard neuf sur la vie dans les quartiers.</desc>
+        <icon src="https://images.pluto.tv/series/6502d9a03d4f920013cbb775/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260521145759 +0000" stop="20260521154759 +0000">
+        <title>Les Lascars</title>
+        <desc>Suivez les aventures de jeunes de cité qui vous sembleront familières. Tout le monde est la cible de l'humour des Lascars, que l'on soit jeune ou vieux, salarié ou chômeur, flic ou pote. Les auteurs livrent un regard neuf sur la vie dans les quartiers.</desc>
+        <icon src="https://images.pluto.tv/series/6502d9a03d4f920013cbb775/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260521154759 +0000" stop="20260521183000 +0000">
         <title>Series by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/featuredImage_1775048963457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29674,17 +29689,42 @@ GREEN BIT, L'ILE AUX FÉES !</title>
         <desc>Au Flanagan, Clémence rencontre Michel Robichaud, mais celui-ci s’intéresse surtout à Louise. Aujourd’hui, Lucas découvre un tableau mystérieux d’Aidrian et d’une inconnue au médaillon de Loulou. Chez Nocturne, les alliances se font et se défont.</desc>
         <icon src="https://images.pluto.tv/series/6875039dfd92ab53e8ed7079/tile_1768266732081.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260521144726 +0000" stop="20260521183000 +0000">
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260521144726 +0000" stop="20260521153602 +0000">
+        <title>Nuit Blanche</title>
+        <desc>Louise voit sa carrière de mannequin décoller, au grand dam de Clémence, promise à Aidrian. Aujourd’hui, la découverte du tableau intrigue Lucas, tandis que Charlotte pousse Marlène à enquêter sérieusement sur leur père.</desc>
+        <icon src="https://images.pluto.tv/series/6875039dfd92ab53e8ed7079/tile_1768266732081.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260521153602 +0000" stop="20260521183000 +0000">
         <title>Pluto TV Polar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60afa749ac7f3200078adb40" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="60afa749ac7f3200078adb40" start="20260521140100 +0000" stop="20260521145400 +0000">
+        <title>Walker Texas Ranger: Mort mystérieuse</title>
+        <desc>Après le meurtre du docteur Slade, un vétérinaire qui enquêtait sur des morts mystérieuses d'animaux, sa fille Ally demande l'aide de Walker...</desc>
+        <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa749ac7f3200078adb40" start="20260521145400 +0000" stop="20260521154700 +0000">
+        <title>Walker Texas Ranger: Un ranger de trop</title>
+        <desc>Walker recherche désespérément l'identité du membre d'une milice privée qui se fait passer pour un nouveau Texas Ranger...</desc>
+        <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa749ac7f3200078adb40" start="20260521154700 +0000" stop="20260521183000 +0000">
         <title>Walker Texas Ranger</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60afaa535580be0007ac9ee4" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="60afaa535580be0007ac9ee4" start="20260521141200 +0000" stop="20260521145900 +0000">
+        <title>Alerte à Malibu: La crique des amoureux</title>
+        <desc>Mitch et Stephanie embarquent sur un yacht, déguisés en riches jeunes mariés afin de capturer des pirates des temps modernes, et sont irrésistiblement attirés l’un par l’autre.</desc>
+        <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afaa535580be0007ac9ee4" start="20260521145900 +0000" stop="20260521154600 +0000">
+        <title>Alerte à Malibu: Un match de basket explosif</title>
+        <desc>Mitch et Garner travaillent sous couverture, et se font passer pour deux joueurs de basket afin de découvrir le meurtrier d’un jeune athlète local, tandis que CJ se retrouve embarquée dans un étrange triangle amoureux.</desc>
+        <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afaa535580be0007ac9ee4" start="20260521154600 +0000" stop="20260521183000 +0000">
         <title>Alerte à Malibu</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29694,12 +29734,27 @@ GREEN BIT, L'ILE AUX FÉES !</title>
         <desc>À Rouen, Christopher, épuisé, prépare les soldats à la conscription. La visite de Sylvia a des conséquences désastreuses, alors que Christopher, McKechnie et Perowne sont envoyés au front.</desc>
         <icon src="https://images.pluto.tv/series/611cb45bd24f5e00135d0956/tile_1768079184471.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35a74c63c3c0008df6a90" start="20260521143829 +0000" stop="20260521183000 +0000">
+    <programme channel="60d35a74c63c3c0008df6a90" start="20260521143829 +0000" stop="20260521153029 +0000">
+        <title>Parade's End: Un fauteuil près du feu</title>
+        <desc>Alors que Valentine attend des nouvelles de Christopher, Sylvia, désormais bien installée à Groby, tente un dernier geste désespéré pour le récupérer.</desc>
+        <icon src="https://images.pluto.tv/series/611cb45bd24f5e00135d0956/tile_1768079184471.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35a74c63c3c0008df6a90" start="20260521153029 +0000" stop="20260521183000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/featuredImage_1771579997925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="611e71322f5f180007001dde" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="611e71322f5f180007001dde" start="20260521141400 +0000" stop="20260521144000 +0000">
+        <title>Degrassi : La Nouvelle Génération: Figure du père (1ère partie)</title>
+        <desc>La naissance imminente du bébé de Spike et Snake donne l’idée à Emma de chercher son père biologique.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260521144000 +0000" stop="20260521150600 +0000">
+        <title>Degrassi : La Nouvelle Génération: Figure du père (2ème partie)</title>
+        <desc>La naissance imminente du bébé de Spike et Snake donne l’idée à Emma de chercher son père biologique.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260521150600 +0000" stop="20260521183000 +0000">
         <title>Degrassi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e71322f5f180007001dde/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29709,67 +29764,162 @@ GREEN BIT, L'ILE AUX FÉES !</title>
         <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
         <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile_1776895861920.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6245ccd0c6cdb800074632e4" start="20260521143200 +0000" stop="20260521183000 +0000">
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260521143200 +0000" stop="20260521152800 +0000">
+        <title>MacGyver: Confiance aveugle</title>
+        <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
+        <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile_1776895861920.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260521152800 +0000" stop="20260521183000 +0000">
         <title>MacGyver</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="625ec7a1c853fd00073b38fd" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260521140150 +0000" stop="20260521145050 +0000">
+        <title>Atlantis : Saison 1: La boîte de Pandore</title>
+        <desc>Il y a de l'amour dans l'air pour Hercule et Méduse, jusqu'à ce que cette dernière soit enlevée par un cruel préteur sur gages, Kyros. En échange de sa vie, il exige qu'Hercule rapporte un objet précieux et puissant des Enfers.</desc>
+        <icon src="https://images.pluto.tv/series/611b6615cbc31c0013c47a2e/tile_1776243243876.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260521145050 +0000" stop="20260521153950 +0000">
+        <title>Atlantis : Saison 1: Corps et âmes</title>
+        <desc>Après les tragiques événements entourant la disparition de Méduse, les garçons rendent visite à l'inventeur Dédale pour trouver un remède. Mais Hercule, impatient, se base sur les informations du peu scrupuleux Crios et part chercher son amour.</desc>
+        <icon src="https://images.pluto.tv/series/611b6615cbc31c0013c47a2e/tile_1776243243876.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260521153950 +0000" stop="20260521183000 +0000">
         <title>Pluto TV Séries Fantastiques</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/featuredImage_1775048560569.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="62f3e4bc08f5ec000744f552" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="62f3e4bc08f5ec000744f552" start="20260521141800 +0000" stop="20260521151300 +0000">
+        <title>Alerte Cobra un duo explosif: Avec préméditation</title>
+        <desc>Le procureur Schrankmann confie à la brigade autoroutière, Heike-Maria, sa fille de 16 ans qui doit faire un stage. L’adolescente trouve le travail de la police complètement idiot et ennuyant. Elle voudrait plutôt suivre les traces de sa mère.</desc>
+        <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1774603441178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e4bc08f5ec000744f552" start="20260521151300 +0000" stop="20260521183000 +0000">
         <title>Alerte Cobra</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65ccd26060eb870008db95fc" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="65ccd26060eb870008db95fc" start="20260521142627 +0000" stop="20260521151606 +0000">
+        <title>Jag: Le tube vide</title>
+        <desc>Turner doit déterminer comment une arme nucléaire qui devrait se trouver à bord d'un sous-marin en partance pour le Moyen-Orient a disparu ; malgré des preuves accablantes du contraire, Harm défend un officier payeur accusé de détournement de fonds.</desc>
+        <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1768263484851.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ccd26060eb870008db95fc" start="20260521151606 +0000" stop="20260521183000 +0000">
         <title>JAG</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65cce14060eb870008dbd003" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="65cce14060eb870008dbd003" start="20260521142940 +0000" stop="20260521145624 +0000">
+        <title>Cheers</title>
+        <desc>Carla se présente au mariage de son ex-mari avec Sam comme cavalier.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20260521145624 +0000" stop="20260521152315 +0000">
+        <title>Cheers</title>
+        <desc>Diane et Sam essaient de se débarrasser de Coach en organisant un double rendez-vous.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20260521152315 +0000" stop="20260521183000 +0000">
         <title>Cheers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce14060eb870008dbd003/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65cce23bdc10a400080645ad" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="65cce23bdc10a400080645ad" start="20260521140712 +0000" stop="20260521153103 +0000">
+        <title>Highway to Heaven</title>
+        <desc>Des couples qui se disputent partent en voyage pour découvrir ce qui les a réunis.</desc>
+        <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1774603801094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce23bdc10a400080645ad" start="20260521153103 +0000" stop="20260521183000 +0000">
         <title>Les Routes du Paradis</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce23bdc10a400080645ad/featuredImage_1756898911225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="662a6309307fa30008196b4e" start="20260521141837 +0000" stop="20260521144520 +0000">
+        <title>Plus Belle la Vie: Saison 3 Episode 36</title>
+        <desc>Alors que pour Léo la pression monte d’un cran, Samia tente de prêter main forte à Malik. De son côté, Nathan se demande qui a pu lui offrir un bien étrange cadeau…</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260521144520 +0000" stop="20260521151213 +0000">
+        <title>Plus Belle la Vie: Saison 3 Episode 37</title>
+        <desc>Alors que Léo tente d’organiser un échange pour sortir de la crise, Nathan passe du fantasme aux certitudes. De son côté, Céline réussira-t- elle à emménager sans tout bouleverser ?</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260521151213 +0000" stop="20260521183000 +0000">
         <title>Plus Belle la Vie 2</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a6309307fa30008196b4e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6671b21ffc3a46000857fe75" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="6671b21ffc3a46000857fe75" start="20260521141810 +0000" stop="20260521151531 +0000">
+        <title>Mission: Impossible</title>
+        <desc>L'Impossible Missions Force est chargé d'éliminer un syndicat de boxe qui corrige les combats pour créer des chances favorables pour une opération de création de livres dans la première moitié d'une histoire en deux parties.</desc>
+        <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b21ffc3a46000857fe75" start="20260521151531 +0000" stop="20260521183000 +0000">
         <title>Mission Impossible</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6671b26836a2f90008d9333c" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="6671b26836a2f90008d9333c" start="20260521140910 +0000" stop="20260521150455 +0000">
+        <title>Diane Femme Flic</title>
+        <desc>Gabriel Beranger, condamné à 10 ans pour avoir abattu en plein triibunal le responsable du kidnapping et de la mort de sa fille, s'évade de prison.</desc>
+        <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1774604520913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b26836a2f90008d9333c" start="20260521150455 +0000" stop="20260521183000 +0000">
         <title>Diane, femme flic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66b227b446762a000846c208" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="66b227b446762a000846c208" start="20260521142427 +0000" stop="20260521145427 +0000">
+        <title>Z Nation</title>
+        <desc>Un monde post-apocalyptique sans concession. Plongez dans l'univers brutal de Z Nation et découvrez les conséquences d'une pandémie zombie. Entre survie, trahison et espoir, cette série vous fera réfléchir sur la nature humaine.</desc>
+        <icon src="https://images.pluto.tv/series/66f536f0747bfa000851d803/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b227b446762a000846c208" start="20260521145427 +0000" stop="20260521152427 +0000">
+        <title>Z Nation</title>
+        <desc>Un monde post-apocalyptique sans concession. Plongez dans l'univers brutal de Z Nation et découvrez les conséquences d'une pandémie zombie. Entre survie, trahison et espoir, cette série vous fera réfléchir sur la nature humaine.</desc>
+        <icon src="https://images.pluto.tv/series/66f536f0747bfa000851d803/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b227b446762a000846c208" start="20260521152427 +0000" stop="20260521183000 +0000">
         <title>Z Nation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b227b446762a000846c208/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66b498bc14a2bb00086965bc" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="66b498bc14a2bb00086965bc" start="20260521141702 +0000" stop="20260521144201 +0000">
+        <title>Blue Mountain State</title>
+        <desc>Les joueurs de l'équipe s'astreignent à l'abstinence pour doper leur performance sur le terrain. Mais cela se retourne contre eux quand Mary Jo, par frustration, les fait devenir fous.</desc>
+        <icon src="https://images.pluto.tv/series/66acddf057d82b001347c06b/tile_1774605960777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b498bc14a2bb00086965bc" start="20260521144201 +0000" stop="20260521150724 +0000">
+        <title>Blue Mountain State</title>
+        <desc>L'équipe commence à accepter des cadeaux de plus en plus ostentatoires de la part d'agents, alors que le Coach Daniels affronte la pression de faire jouer le fils exaspérant d'un supporter local.</desc>
+        <icon src="https://images.pluto.tv/series/66acddf057d82b001347c06b/tile_1774605960777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b498bc14a2bb00086965bc" start="20260521150724 +0000" stop="20260521183000 +0000">
         <title>Pluto TV 2010's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66b4990746762a00084c2f78" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="66b4990746762a00084c2f78" start="20260521142738 +0000" stop="20260521145236 +0000">
+        <title>Sabrina The Teenage Witch</title>
+        <desc>Pour Noël, Sabrina a décidé de passer ses vacances avec une famille de mortels. Morgan lui propose alors de venir avec elle dans son chalet de ski familial.</desc>
+        <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1768263121344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260521145236 +0000" stop="20260521151936 +0000">
+        <title>Kenan et Kel: Surprise, surprise</title>
+        <desc>Roger veut préparer une surprise pour l'anniversaire de Shéryl. Kenan et kel doivent trouver le cadeau et le gâteau.</desc>
+        <icon src="https://images.pluto.tv/series/602b895cf5408c001a4f77a3/tile_1774607401198.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260521151936 +0000" stop="20260521183000 +0000">
         <title>Pluto TV 90's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b4990746762a00084c2f78/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66d71ff86b63480008cf15c5" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="66d71ff86b63480008cf15c5" start="20260521141245 +0000" stop="20260521150216 +0000">
+        <title>Flashpoint</title>
+        <desc>Un avion en provenance de Mont-Tremblant est détourné par deux hommes qui exigent un atterrissage près d'un pénitencier. Ils veulent la libération d'un écologiste extrémiste.</desc>
+        <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile_1774604161192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71ff86b63480008cf15c5" start="20260521150216 +0000" stop="20260521183000 +0000">
         <title>Flashpoint</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29779,7 +29929,12 @@ GREEN BIT, L'ILE AUX FÉES !</title>
         <desc>Erin, Frank et Danny allient leurs force pour que justice soit faite face à un homme soupçonné de viol protégé par l'immunité diplomatique.</desc>
         <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55a9a747bfa0008521859" start="20260521143230 +0000" stop="20260521183000 +0000">
+    <programme channel="66f55a9a747bfa0008521859" start="20260521143230 +0000" stop="20260521151932 +0000">
+        <title>Blue Bloods</title>
+        <desc>Frank mobilise toute la NYPD pour trouver qui a tué un policier hors service lors d'un braquage de bijouterie.</desc>
+        <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55a9a747bfa0008521859" start="20260521151932 +0000" stop="20260521183000 +0000">
         <title>Blue Bloods</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55a9a747bfa0008521859/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29789,12 +29944,32 @@ GREEN BIT, L'ILE AUX FÉES !</title>
         <desc>L'Enterprise est projeté dans le temps sur la Terre du 20ème siècle.</desc>
         <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260521144509 +0000" stop="20260521183000 +0000">
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260521144509 +0000" stop="20260521154218 +0000">
+        <title>Star Trek</title>
+        <desc>L'Enterprise rencontre une civilisation apparemment pacifique dirigée par un être &amp;quot;bienveillant&amp;quot; nommé Landru... qui a l'intention de les faire rejoindre son peuple.</desc>
+        <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260521154218 +0000" stop="20260521183000 +0000">
         <title>Star Trek: The Original Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b3c51a5ca760802cc1c7/featuredImage_1752571354680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="67b4b4a21a5ca760802d25fd" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260521141058 +0000" stop="20260521143354 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Mme Morello partie en Afrique, la classe de Chris endure une série de remplaçants excentriques. L'arrivée de M. Newton, un prof noir, bouscule tout : il pousse Chris à l'excellence scolaire via un entraînement intensif !</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260521143354 +0000" stop="20260521145651 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Il neige à New York, mais Rochelle envoie quand même Chris au collège. Celui-ci se retrouve alors seul avec le proviseur Edwards...</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260521145651 +0000" stop="20260521151909 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Une épidémie de vol de chaînes en or s'abat sur Brooklin et Chris s'interpose en empêchant Malvo de voler la chaîne de Vanessa.</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260521151909 +0000" stop="20260521183000 +0000">
         <title>Tout le monde déteste Chris</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/featuredImage_1747394750365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29809,12 +29984,27 @@ GREEN BIT, L'ILE AUX FÉES !</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/featuredImage_1753890939940.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68d292d554c61bfff220a635" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="68d292d554c61bfff220a635" start="20260521141813 +0000" stop="20260521150635 +0000">
+        <title>Flynn Carson et les Nouveaux Aventuriers</title>
+        <desc>Les bibliothécaires enquêtent sur une célèbre discothèque londonienne dont les jeunes clients se retrouvent victimes d’évènements très étranges.</desc>
+        <icon src="https://images.pluto.tv/series/679c7ecc15e36300140629cf/tile_1774604521142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d292d554c61bfff220a635" start="20260521150635 +0000" stop="20260521183000 +0000">
         <title>Flynn Carson et The Outpost</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d292d554c61bfff220a635/featuredImage_1761761926676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="691b3669c48674840c3b832a" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="691b3669c48674840c3b832a" start="20260521142942 +0000" stop="20260521145411 +0000">
+        <title>Spider Riders</title>
+        <desc>Même si Stags et son armée ont envahi le château de Nuuma, la reine Illuma ordonne aux Spider Riders de fuir les lieux. Mais Hunter lui désobéit.</desc>
+        <icon src="https://images.pluto.tv/series/6811d71c00cabfe6fe185868/tile_1768266006380.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b3669c48674840c3b832a" start="20260521145411 +0000" stop="20260521151840 +0000">
+        <title>Spider Riders</title>
+        <desc>Tout semble perdu lorsque Hunter se retrouve enterré sous un amas de pierres après un violent affrontement avec Stags.</desc>
+        <icon src="https://images.pluto.tv/series/6811d71c00cabfe6fe185868/tile_1768266006380.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b3669c48674840c3b832a" start="20260521151840 +0000" stop="20260521183000 +0000">
         <title>Pluto TV ANIME GO!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b3669c48674840c3b832a/featuredImage_1778491402325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29824,27 +30014,67 @@ GREEN BIT, L'ILE AUX FÉES !</title>
         <desc>Nina a une discussion houleuse avec Julien qui lui avoue avoir eu une aventure avec Bergman mais il n’aurait jamais pensé que la chef de service puisse réellement tomber amoureuse de lui…</desc>
         <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="692ec6d82329c10c5166f436" start="20260521145731 +0000" stop="20260521183000 +0000">
+    <programme channel="692ec6d82329c10c5166f436" start="20260521145731 +0000" stop="20260521155623 +0000">
+        <title>NINA</title>
+        <desc>Alors que l’hôpital accueille les rescapés d’un incendie, Nina se retrouve face à son agresseur : Franck, pompier de son état, feint de ne pas la reconnaitre. Mais Nina n’a aucun doute : il s’agit bien de l’homme qui hante ses cauchemars…</desc>
+        <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="692ec6d82329c10c5166f436" start="20260521155623 +0000" stop="20260521183000 +0000">
         <title>Nina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/featuredImage_1771598181775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="692ec71425eaa17b6daf2a11" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="692ec71425eaa17b6daf2a11" start="20260521142004 +0000" stop="20260521152332 +0000">
+        <title>PJ</title>
+        <desc>Nouvellement engagée à la PJ, le capitaine Juliette Antoine suscite immédiatement la méfiance de l'équipe.</desc>
+        <icon src="https://images.pluto.tv/series/69b16cf46d7de5ca36a5b1af/tile_1773235445789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="692ec71425eaa17b6daf2a11" start="20260521152332 +0000" stop="20260521183000 +0000">
         <title>PJ</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec71425eaa17b6daf2a11/featuredImage_1778222500950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="697a34496f47f39d31ff8bde" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="697a34496f47f39d31ff8bde" start="20260521141258 +0000" stop="20260521144429 +0000">
+        <title>Si près de chez vous</title>
+        <desc>Marc, psychiatre, est agressé. Suspects : Justine, une nouvelle patiente aux secrets inavouables ; Roger, le père de cette dernière craignant les confidences ; ou Florence, l’épouse de Marc jalouse de cette patiente.</desc>
+        <icon src="https://images.pluto.tv/series/69e5cab824d9b7beb5351bae/tile_1776667321031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="697a34496f47f39d31ff8bde" start="20260521144429 +0000" stop="20260521151624 +0000">
+        <title>Si près de chez vous</title>
+        <desc>Bertrand, céréalier, voit son champ détruit par le feu. Suspects : Julien, son fils endetté ; Mathilde, l’accusant de la mort de sa mère ; ou André, un promoteur immobilier convoitant ses terres.</desc>
+        <icon src="https://images.pluto.tv/series/69e5cab824d9b7beb5351bae/tile_1776667321031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="697a34496f47f39d31ff8bde" start="20260521151624 +0000" stop="20260521183000 +0000">
         <title>Si près de chez vous</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/697a34496f47f39d31ff8bde/featuredImage_1771926209987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="69aadc5551df9542f2521e1a" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="69aadc5551df9542f2521e1a" start="20260521140618 +0000" stop="20260521145425 +0000">
+        <title>Dawson</title>
+        <desc>Jack fait une rencontre romantique sur internet. Dawson découvre un préservatif dans sa chambre et se met à croire que Joey et Pacey ont eu une liaison. Il devient très jaloux. Pendant ce temps-là, une compétition de tango se prépare au collège...</desc>
+        <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69aadc5551df9542f2521e1a" start="20260521145425 +0000" stop="20260521154232 +0000">
+        <title>Dawson</title>
+        <desc>Dawson, Joey, Andie et Jack vont passer un week-end dans une prestigieuse université à Boston. Le film qu'a réalisé Dawson, "Escape From Witch Island", est en compétition au festival du film qui a lieu dans cette université.</desc>
+        <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69aadc5551df9542f2521e1a" start="20260521154232 +0000" stop="20260521183000 +0000">
         <title>Dawson</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/featuredImage_1775658935857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="69b3db536c0414a7ecf564fb" start="20260521143000 +0000" stop="20260521183000 +0000">
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260521141834 +0000" stop="20260521144834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260521144834 +0000" stop="20260521151834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260521151834 +0000" stop="20260521183000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b3db536c0414a7ecf564fb/featuredImage_1775061732639.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
